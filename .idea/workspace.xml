@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b8662e3-a383-4763-a0c5-e45021b58692" name="Default" comment="" />
+    <list default="true" id="0b8662e3-a383-4763-a0c5-e45021b58692" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/finalTask/AppTest1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/finalTask/AppTest2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/finalTask/AppTest3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/finalTask/Browser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/Browser.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/6dda50f6-7b4f-4499-b619-65356acccaff-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/d8911a95-579a-4d40-b951-70d74ea4f11f-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ddaa32c4-7245-491d-aa1c-6e237d85d176-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/f43a0af4-9426-41d1-8dde-c9edbdbb5a59-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/finaltask/AppTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pageobjectsTask/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/pageobjectsTask/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/finaltask/SomeListener.class" afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/finaltask/SomeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/credentials.txt" afterPath="$PROJECT_DIR$/src/main/resources/credentials.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/credentials.txt" afterPath="$PROJECT_DIR$/target/classes/credentials.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testng.xml" afterPath="$PROJECT_DIR$/target/classes/testng.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/selenium/finaltask/SomeListener.java" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/SomeListener.java" />
+    </list>
     <ignored path="selTask5.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,11 +49,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java">
+      <file leaf-file-name="AppTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="124" column="43" selection-start-line="124" selection-start-column="43" selection-end-line="124" selection-end-column="43" />
+            <state relative-caret-position="238">
+              <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1540#1541#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppTest2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-460">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,41 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d8911a95-579a-4d40-b951-70d74ea4f11f-testsuite.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/allure-results/d8911a95-579a-4d40-b951-70d74ea4f11f-testsuite.xml">
+      <file leaf-file-name="AppTest3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f43a0af4-9426-41d1-8dde-c9edbdbb5a59-testsuite.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/allure-results/f43a0af4-9426-41d1-8dde-c9edbdbb5a59-testsuite.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SomeListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/SomeListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="795">
+              <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,30 +87,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6dda50f6-7b4f-4499-b619-65356acccaff-attachment.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/allure-results/6dda50f6-7b4f-4499-b619-65356acccaff-attachment.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ddaa32c4-7245-491d-aa1c-6e237d85d176-attachment.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/allure-results/ddaa32c4-7245-491d-aa1c-6e237d85d176-attachment.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="SuiteRunnerWorker.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+            <state relative-caret-position="-970">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1530">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Browser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/Browser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2136#2137#0" expanded="true" />
-                <element signature="e#2181#2182#0" expanded="true" />
+                <element signature="e#517#528#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,11 +143,9 @@
       <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="71" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,6 +159,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -134,14 +172,20 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/pageobjectsTask7/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageobjectsTask7/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/credentials.txt" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/task7/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/finaltask/SomeListener.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/credentials.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/Browser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -188,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,42 +311,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selTask5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FinalTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="allure-results" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selTask5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FinalTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -316,7 +323,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="finaltask" />
+              <option name="myItemId" value="finalTask" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -384,14 +391,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="TestNG.AppTest.googleTest4 (1)">
-    <configuration default="false" name="AppTest.googleTest1 (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/FinalTask/src/main/resources/testng.xml">
+    <configuration default="false" name="AppTest3" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.selenium.finaltask.*" />
+          <option name="PATTERN" value="com.selenium.finalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,13 +407,46 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.selenium.finaltask" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.finaltask.AppTest" />
-      <option name="METHOD_NAME" value="googleTest1" />
+      <option name="PACKAGE_NAME" value="com.selenium.finalTask" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.finalTask.AppTest3" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="0" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppTest2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.finalTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="finalTask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.selenium.finalTask" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.finalTask.AppTest2" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
@@ -449,10 +490,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="AppTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AppTest1.googleTest1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.selenium.finaltask.*" />
+          <option name="PATTERN" value="com.selenium.finalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,42 +501,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.selenium.finaltask" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.finaltask.AppTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="AppTest.googleTest4" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.finaltask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="finalTask" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.selenium.finaltask" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.finaltask.AppTest" />
-      <option name="METHOD_NAME" value="googleTest4" />
+      <option name="PACKAGE_NAME" value="com.selenium.finalTask" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.finalTask.AppTest1" />
+      <option name="METHOD_NAME" value="googleTest1" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -515,10 +523,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="AppTest.googleTest4 (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AppTest3.googleTest3" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.selenium.finaltask.*" />
+          <option name="PATTERN" value="com.selenium.finalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -526,13 +534,13 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.selenium.finaltask" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.finaltask.AppTest" />
-      <option name="METHOD_NAME" value="googleTest4" />
+      <option name="PACKAGE_NAME" value="com.selenium.finalTask" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.finalTask.AppTest3" />
+      <option name="METHOD_NAME" value="googleTest3" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="0" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
@@ -793,19 +801,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.AppTest.googleTest1 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.D:/FinalTask/src/main/resources/testng.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.AppTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.AppTest.googleTest4" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.AppTest.googleTest4 (1)" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.AppTest3" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.AppTest2" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.D:/FinalTask/src/main/resources/testng.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.AppTest1.googleTest1" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.AppTest3.googleTest3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.AppTest.googleTest4 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.AppTest.googleTest4" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.AppTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.D:/FinalTask/src/main/resources/testng.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.AppTest.googleTest1 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.D:/FinalTask/src/main/resources/testng.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.AppTest1.googleTest1" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.AppTest3" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.AppTest3.googleTest3" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.AppTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -826,34 +834,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest - 2016.12.27 at 11h 31m 02s.xml">
-      <configuration name="AppTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AppTest_googleTest1_(1) - 2016.12.27 at 10h 56m 32s.xml">
-      <configuration name="AppTest.googleTest1 (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AppTest_googleTest1_(1) - 2016.12.27 at 11h 21m 30s.xml">
-      <configuration name="AppTest.googleTest1 (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AppTest_googleTest1_(1) - 2016.12.27 at 11h 23m 22s.xml">
-      <configuration name="AppTest.googleTest1 (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AppTest_googleTest4 - 2016.12.27 at 11h 40m 37s.xml">
-      <configuration name="AppTest.googleTest4" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AppTest_googleTest4_(1) - 2016.12.27 at 11h 41m 17s.xml">
-      <configuration name="AppTest.googleTest4 (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AppTest_googleTest5 - 2016.12.26 at 16h 09m 02s.xml">
-      <configuration name="AppTest.googleTest5" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2016.12.27 at 11h 00m 54s.xml">
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 12h 36m 24s.xml">
       <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2016.12.27 at 11h 25m 31s.xml">
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 12h 39m 21s.xml">
       <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2016.12.27 at 11h 27m 00s.xml">
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 12h 41m 00s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 12h 51m 28s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 12h 56m 06s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 13h 07m 50s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 13h 14m 08s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 13h 19m 16s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 13h 20m 23s.xml">
+      <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__FinalTask_src_main_resources_testng_xml - 2017.01.17 at 13h 22m 12s.xml">
       <configuration name="D:/FinalTask/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -865,26 +873,26 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19763695" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26666668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3802363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.359204" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957035" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -900,7 +908,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -909,132 +917,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/credentials.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1-sources.jar!/org/openqa/selenium/interactions/SendKeysAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1-sources.jar!/org/openqa/selenium/interactions/SendKeysAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1-sources.jar!/org/openqa/selenium/interactions/SendKeysAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1050,16 +940,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1102,17 +983,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/441a04e8-117f-4ce5-a81c-689a5765f9f4-testsuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/441a04e8-117f-4ce5-a81c-689a5765f9f4-testsuite.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
@@ -1121,57 +995,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/192bbef1-4aa3-4bf5-a8da-9757b3089728-attachment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/0f46f380-d957-41b7-95f5-34a198fad23c-attachment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/7e894e21-54e2-4e53-9d4c-6464f9f5d458-attachment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/120f1be3-4a64-4235-978e-f453ceddc1d3-attachment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/578d44bb-f94e-4643-9e9b-44f86600613a-testsuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4153">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/credentials.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/192bbef1-4aa3-4bf5-a8da-9757b3089728-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/0f46f380-d957-41b7-95f5-34a198fad23c-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/7e894e21-54e2-4e53-9d4c-6464f9f5d458-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/120f1be3-4a64-4235-978e-f453ceddc1d3-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/578d44bb-f94e-4643-9e9b-44f86600613a-testsuite.xml" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,48 +1011,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/SomeListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2136#2137#0" expanded="true" />
-            <element signature="e#2181#2182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/SomeListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="442">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/6dda50f6-7b4f-4499-b619-65356acccaff-attachment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/allure-results/ddaa32c4-7245-491d-aa1c-6e237d85d176-attachment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finaltask/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="124" column="43" selection-start-line="124" selection-start-column="43" selection-end-line="124" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1245,14 +1044,173 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/6dda50f6-7b4f-4499-b619-65356acccaff-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/c50f04fa-a5d6-4bf0-a4a3-4529a9f9d1ef-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/ddaa32c4-7245-491d-aa1c-6e237d85d176-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/e0185dac-2d62-4927-abb0-ed1c2d43e4f0-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="369" column="0" selection-start-line="369" selection-start-column="0" selection-end-line="369" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/credentials.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/50a58ffc-15db-4605-8f59-cc3b575d9d16-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/21b9a7e7-54fe-458f-961d-0cf49a5f49ba-testsuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6192">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/c62f9094-7ac0-41f0-bcb1-d01f9fba7f10-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/c78767f7-2059-44c7-bef1-1622e8acf5a0-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/fd113557-b772-4e4f-aa7d-57dc3705d582-testsuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/fee28a72-15f0-4e92-83cd-355d652a0ab8-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#517#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/4c5b7b9e-ca21-440d-8571-ebaf71d4f807-attachment.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/4b259270-ce51-44b6-9195-3fdd3dd4619d-testsuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/finalTask/AppTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjectsTask/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-970">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

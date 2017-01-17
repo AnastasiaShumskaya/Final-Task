@@ -44,7 +44,7 @@ public class HomePage {
     @FindBy(css = "div[role=\"main\"] table[class=\"F cf zt\"] div[class=\"yW\"] span")
     private WebElement allLetters;
 
-    @FindBy(css = "div[style=\"\"]>div[class*=\"nX\"]")
+    @FindBy(css = "div[class*= \"ar9\"]")
     private WebElement deleteButton;
 
     @FindBy(css = "a[href*=\"#trash\"]")
@@ -102,6 +102,8 @@ public class HomePage {
         Actions builder = new Actions(DRIVER);
         builder.moveToElement(sentMailLink).build().perform();
         more.click();
+        WebElement dynamicElement = (new WebDriverWait(DRIVER, 10))
+                .until(ExpectedConditions.visibilityOf(trashBox));
         trashBox.click();
         List<WebElement> my = DRIVER.findElements(SENTLIST);
         WebElement first = Iterables.getFirst(my,DRIVER.findElement(SENTLIST));
